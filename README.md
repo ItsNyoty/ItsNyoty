@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ItsNyoty/ItsNyoty/blob/master/waving.PNG" alt="Emote from ItsNyoty" width=350px height=465px/>
+<img align="right" src="https://github.com/ItsNyoty/ItsNyoty/blob/master/hi.PNG" alt="Emote from ItsNyoty" width=350px height=465px/>
 
 ### Hi, I'm Nyo 👋
 I’m a Full Stack developer.
