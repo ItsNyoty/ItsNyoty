@@ -4,8 +4,8 @@
 I’m a Full Stack developer.
  
 
-📱 I’m currently working on [Xeno-AI](xeno-ai.space) and [SupportBot](github.com/Emerald-Services/SupportBot)
-🤓 I can speak Dutch, English, French, German and Spanish.
-💬 Ask me about HTML, CSS, PHP, Python and JavaScript.
-📫 How to reach me: Nyo | ItsNyoty#7330
-😄 Pronouns: he/him
+- 📱 I’m currently working on [Xeno-AI](xeno-ai.space) and [SupportBot](github.com/Emerald-Services/SupportBot)
+- 🤓 I can speak Dutch, English, French, German and Spanish.
+- 💬 Ask me about HTML, CSS, PHP, Python and JavaScript.
+- 📫 How to reach me: Nyo | ItsNyoty#7330
+- 😄 Pronouns: he/him
