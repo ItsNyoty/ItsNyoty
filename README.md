@@ -7,7 +7,7 @@ I’m a Full Stack developer.
 - 📱 I’m currently working on [SupportBot](https://github.com/Emerald-Services/SupportBot)
 - 🤓 I can speak Dutch, English, French, German and Spanish.
 - 💬 Ask me about HTML, CSS, PHP, Python and JavaScript.
-- 📫 How to reach me: Nyo | ItsNyoty#7330
+- 📫 How to reach me: Nyo | ItsNyoty
 - 😄 Pronouns: he/him
 - 🔗 My website: https://nyodekens.eu.org
 
