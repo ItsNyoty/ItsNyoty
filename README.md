@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/ItsNyoty/ItsNyoty/blob/master/hi.png" alt="Emote from ItsNyoty" width=450px height=465px/>
 
 ### Hi, I'm Nyo 👋
-I’m a Full Stack developer.
+I’m trying to be a Full Stack developer.
  
 
 - 📱 I’m currently working on [SupportBot](https://github.com/Emerald-Services/SupportBot)
